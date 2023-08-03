@@ -1,0 +1,5 @@
+2023-08-03 23:15:24.024532 __init__ (<__main__.FlatIterator object at 0x00000174D84F0690>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]) {} None 
+2023-08-03 23:15:24.024532 __iter__ (<__main__.FlatIterator object at 0x00000174D84F0690>,) {} <__main__.FlatIterator object at 0x00000174D84F0690> 
+2023-08-03 23:15:24.024532 __init__ (<__main__.FlatIterator object at 0x00000174D84F0590>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]) {} None 
+2023-08-03 23:15:24.024532 __iter__ (<__main__.FlatIterator object at 0x00000174D84F0590>,) {} <__main__.FlatIterator object at 0x00000174D84F0590> 
+2023-08-03 23:15:24.024532 test_1 () {} None 
